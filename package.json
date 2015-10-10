@@ -1,0 +1,14 @@
+{
+  "name": "is-event-supported",
+  "version": "1.0.0",
+  "description": "React's isEventSupported module extracted for use in other packages & components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vegetableman <vegetablebot@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "exenv": "^1.2.0"
+  }
+}
