@@ -1,11 +1,26 @@
 {
   "name": "is-event-supported",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React's isEventSupported module extracted for use in other packages & components",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vegetableman/is-event-supported.git"
+  },
+  "keywords": [
+    "react",
+    "iseventsupported",
+    "isevent",
+    "event",
+    "support"
+  ],
+  "bugs": {
+    "url": "https://github.com/vegetableman/is-event-supported/issues"
+  },
+  "homepage": "https://github.com/vegetableman/is-event-supported",
   "author": "vegetableman <vegetablebot@gmail.com>",
   "license": "BSD",
   "dependencies": {
